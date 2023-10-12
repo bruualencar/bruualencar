@@ -4,15 +4,13 @@
 
 ### Sobre mim
 
-💻 Eu sou um desenvolvedor Front-End 
+💻 * Eu sou uma desenvolvedora em treinamento
 
+🎓 * Cursando Análise e Desenvolvimento de Sistemas na UNIFOR
 
+🔎 * Também sou curioso sobre 
 
-🎓 Eu estudo Análise e Desenvolvimento de Sistemas na UNIFOR
-
-🔎 Também sou curioso sobre Feijoadas Artisticas
-
-✒️ Eu gosto de no meu tempo livre comer feijoada XDXDXDXD
+✒️ Eu gosto de no meu tempo livre 
 
 
 
