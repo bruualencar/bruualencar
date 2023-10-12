@@ -10,11 +10,9 @@
 
 🎓 Eu estudo Análise e Desenvolvimento de Sistemas na UNIFOR
 
-👩‍💻 Atualmente eu trabalho como [Cargo] @ [Empresa atual]
+🔎 Também sou curioso sobre Feijoadas Artisticas
 
-🔎 Também sou curioso sobre [Temas que você gosta]
-
-✒️ Eu gosto de no meu tempo livre [Coisas que você gosta de fazer no tempo livre];
+✒️ Eu gosto de no meu tempo livre comer feijoada XDXDXDXD
 
 
 
