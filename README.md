@@ -8,9 +8,9 @@
 
 🎓 * Cursando Análise e Desenvolvimento de Sistemas na UNIFOR
 
-🔎 * Também sou curioso sobre 
+🔎 * Estou estudando HTML, CSS e JS 
 
-✒️ Eu gosto de no meu tempo livre 
+
 
 
 
